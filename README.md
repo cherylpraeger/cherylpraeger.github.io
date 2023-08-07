@@ -1,3 +1,3 @@
 # cherylpraeger.github.io
 personal site
-this site contains my lit of publications
+this site contains my list of publications
